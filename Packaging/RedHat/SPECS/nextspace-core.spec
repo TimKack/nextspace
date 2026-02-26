@@ -95,7 +95,6 @@ mkdir -p %{buildroot}/usr/NextSpace/etc
 /etc/skel
 /etc/udev
 /etc/X11
-/etc/polkit-1/rules.d/10-udisks2.rules
 /usr/NextSpace/Documentation/man/man1/open*.gz
 /usr/NextSpace/etc/
 /usr/NextSpace/bin/gnustep-services
